@@ -1,0 +1,7 @@
+interface:
+  display_name: "Yudi Thinking"
+  short_description: "为 Yudi 推演、设计并审查可决策的业务与产品方案"
+  default_prompt: "Use $yudi-thinking to 把这个业务或产品问题推演成可确认、可落地的完整方案。"
+
+policy:
+  allow_implicit_invocation: true
